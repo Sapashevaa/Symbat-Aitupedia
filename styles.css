@@ -1,0 +1,46 @@
+img {
+  border-radius: 10px;
+}
+
+table,
+tr {
+  border: 0px solid black;
+  width: 80%;
+  height: 90%
+}
+
+.city {
+  background: url(https://phonoteka.org/uploads/posts/2021-04/1619242326_11-phonoteka_org-p-fon-s-nadpisyu-anime-12.jpg)no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  max-width: 1000px;
+  margin: 0 auto;
+  height: 300px;
+  width: 100%;
+}
+
+.color {
+  border: 1px solid black;
+  padding: 5px 5px 5px 5px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 300px;
+  margin-left: 300px;
+  background-color: lightpink;
+}
+
+.img1 {
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  float: right;
+  margin-left: 30px;
+}
+
+.img3 {
+  float: left;
+  margin-right: 30px;
+}
